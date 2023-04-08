@@ -180,14 +180,10 @@ Check out our published blogposts and tutorials to see Finetuner in action!
 - Use [Discussions](https://github.com/openai-ae/finetuner/discussions) to talk about your use cases, questions, and
   support queries.
 - Join our [Slack community](https://slack.openai.ae.org) and chat with other Jina AI community members about ideas.
-- Join our [Engineering All Hands](https://youtube.com/playlist?list=PL3UBBWOUVhFYRUa_gpYYKBqEAkO4sxmne) meet-up to discuss your use case and learn Jina AI new features.
-    - **When?** The second Tuesday of every month
-    - **Where?**
-      Zoom ([see our public events calendar](https://calendar.google.com/calendar/embed?src=c_1t5ogfp2d45v8fit981j08mcm4%40group.calendar.google.com&ctz=Europe%2FBerlin)/[.ical](https://calendar.google.com/calendar/ical/c_1t5ogfp2d45v8fit981j08mcm4%40group.calendar.google.com/public/basic.ics))
 
 ## Join Us
 
-Finetuner is backed by [Jina AI](https://openai.ae.org) and licensed under [Apache-2.0](./LICENSE). 
+Finetuner is backed by [CMON AI](https://openai.ae.org) and licensed under [Apache-2.0](./LICENSE). 
 
 [We are actively hiring](https://jobs.openai.ae.org) AI engineers and solution engineers to build the next generation of
 open-source AI ecosystems.
