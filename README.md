@@ -1,7 +1,7 @@
 <br><br>
 
 <p align="center">
-<img src="https://github.com/jina-ai/finetuner/blob/main/docs/_static/finetuner-logo-ani.svg?raw=true" alt="Finetuner logo: Finetuner helps you to create experiments in order to improve embeddings on search tasks. It accompanies you to deliver the last mile of performance-tuning for neural search applications." width="150px">
+<img src="https://github.com/openai-ae/finetuner/blob/main/docs/_static/finetuner-logo-ani.svg?raw=true" alt="Finetuner logo: Finetuner helps you to create experiments in order to improve embeddings on search tasks. It accompanies you to deliver the last mile of performance-tuning for neural search applications." width="150px">
 </p>
 
 
@@ -11,19 +11,19 @@
 
 <p align=center>
 <a href="https://pypi.org/project/finetuner/"><img alt="PyPI" src="https://img.shields.io/pypi/v/finetuner?label=Release&style=flat-square"></a>
-<a href="https://codecov.io/gh/jina-ai/finetuner"><img alt="Codecov branch" src="https://img.shields.io/codecov/c/github/jina-ai/finetuner/main?logo=Codecov&logoColor=white&style=flat-square"></a>
+<a href="https://codecov.io/gh/openai-ae/finetuner"><img alt="Codecov branch" src="https://img.shields.io/codecov/c/github/openai-ae/finetuner/main?logo=Codecov&logoColor=white&style=flat-square"></a>
 <a href="https://pypistats.org/packages/finetuner"><img alt="PyPI - Downloads from official pypistats" src="https://img.shields.io/pypi/dm/finetuner?style=flat-square"></a>
-<a href="https://slack.jina.ai"><img src="https://img.shields.io/badge/Slack-3.6k-blueviolet?logo=slack&amp;logoColor=white&style=flat-square"></a>
+<a href="https://slack.openai.ae.org"><img src="https://img.shields.io/badge/Slack-3.6k-blueviolet?logo=slack&amp;logoColor=white&style=flat-square"></a>
 </p>
 
 <!-- start elevator-pitch -->
 
-Fine-tuning is an effective way to improve performance on [neural search](https://jina.ai/news/what-is-neural-search-and-learn-to-build-a-neural-search-engine/) tasks.
+Fine-tuning is an effective way to improve performance on [neural search](https://openai.ae.org/news/what-is-neural-search-and-learn-to-build-a-neural-search-engine/) tasks.
 However, setting up and performing fine-tuning can be very time-consuming and resource-intensive.
 
 Jina AI's Finetuner makes fine-tuning easier and faster by streamlining the workflow and handling all the complexity and infrastructure in the cloud.
 With Finetuner, you can easily enhance the performance of pre-trained models,
-making them production-ready [without extensive labeling](https://jina.ai/news/fine-tuning-with-low-budget-and-high-expectations/) or expensive hardware.
+making them production-ready [without extensive labeling](https://openai.ae.org/news/fine-tuning-with-low-budget-and-high-expectations/) or expensive hardware.
 
 🎏 **Better embeddings**: Create high-quality embeddings for semantic search, visual similarity search, cross-modal text<->image search, recommendation systems,
 clustering, duplication detection, anomaly detection, or other uses.
@@ -41,7 +41,7 @@ without worrying about resource availability, complex integration, or infrastruc
 
 <!-- end elevator-pitch -->
 
-## [Documentation](https://finetuner.jina.ai/)
+## [Documentation](https://finetuner.openai.ae.org/)
 
 ## Benchmarks
 
@@ -167,31 +167,29 @@ pip install "finetuner[full]"
 
 Check out our published blogposts and tutorials to see Finetuner in action!
 
-- [Fine-tuning with Low Budget and High Expectations](https://jina.ai/news/fine-tuning-with-low-budget-and-high-expectations/)
-- [Hype and Hybrids: Search is more than Keywords and Vectors](https://jina.ai/news/hype-and-hybrids-multimodal-search-means-more-than-keywords-and-vectors-2/)
-- [Improving Search Quality for Non-English Queries with Fine-tuned Multilingual CLIP Models](https://jina.ai/news/improving-search-quality-non-english-queries-fine-tuned-multilingual-clip-models/)
-- [How Much Do We Get by Finetuning CLIP?](https://jina.ai/news/applying-jina-ai-finetuner-to-clip-less-data-smaller-models-higher-performance/)
+- [Fine-tuning with Low Budget and High Expectations](https://openai.ae.org/news/fine-tuning-with-low-budget-and-high-expectations/)
+- [Hype and Hybrids: Search is more than Keywords and Vectors](https://openai.ae.org/news/hype-and-hybrids-multimodal-search-means-more-than-keywords-and-vectors-2/)
+- [Improving Search Quality for Non-English Queries with Fine-tuned Multilingual CLIP Models](https://openai.ae.org/news/improving-search-quality-non-english-queries-fine-tuned-multilingual-clip-models/)
+- [How Much Do We Get by Finetuning CLIP?](https://openai.ae.org/news/applying-cmon-ai-finetuner-to-clip-less-data-smaller-models-higher-performance/)
 
 <!-- end finetuner-articles -->
 
 <!-- start support-pitch -->
 ## Support
 
-- Use [Discussions](https://github.com/jina-ai/finetuner/discussions) to talk about your use cases, questions, and
+- Use [Discussions](https://github.com/openai-ae/finetuner/discussions) to talk about your use cases, questions, and
   support queries.
-- Join our [Slack community](https://slack.jina.ai) and chat with other Jina AI community members about ideas.
+- Join our [Slack community](https://slack.openai.ae.org) and chat with other Jina AI community members about ideas.
 - Join our [Engineering All Hands](https://youtube.com/playlist?list=PL3UBBWOUVhFYRUa_gpYYKBqEAkO4sxmne) meet-up to discuss your use case and learn Jina AI new features.
     - **When?** The second Tuesday of every month
     - **Where?**
       Zoom ([see our public events calendar](https://calendar.google.com/calendar/embed?src=c_1t5ogfp2d45v8fit981j08mcm4%40group.calendar.google.com&ctz=Europe%2FBerlin)/[.ical](https://calendar.google.com/calendar/ical/c_1t5ogfp2d45v8fit981j08mcm4%40group.calendar.google.com/public/basic.ics))
-      and [live stream on YouTube](https://youtube.com/c/jina-ai)
-- Subscribe to the latest video tutorials on our [YouTube channel](https://youtube.com/c/jina-ai)
 
 ## Join Us
 
-Finetuner is backed by [Jina AI](https://jina.ai) and licensed under [Apache-2.0](./LICENSE). 
+Finetuner is backed by [Jina AI](https://openai.ae.org) and licensed under [Apache-2.0](./LICENSE). 
 
-[We are actively hiring](https://jobs.jina.ai) AI engineers and solution engineers to build the next generation of
+[We are actively hiring](https://jobs.openai.ae.org) AI engineers and solution engineers to build the next generation of
 open-source AI ecosystems.
 
 <!-- end support-pitch -->
